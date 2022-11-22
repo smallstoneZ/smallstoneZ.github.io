@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>油炸豆糕</title>
+  
+  <subtitle>油炸豆糕--轨迹</subtitle>
+  <link href="https://smallstonez.github.io/project/atom.xml" rel="self"/>
+  
+  <link href="https://smallstonez.github.io/project/"/>
+  <updated>2022-11-22T15:48:32.320Z</updated>
+  <id>https://smallstonez.github.io/project/</id>
+  
+  <author>
+    <name>FriedBeanCake</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>技术文档收集</title>
+    <link href="https://smallstonez.github.io/project/2022/11/22/zai-xian-ji-zhu-wen-dang/zai-xian-ji-zhu-wen-dang-shou-ji/"/>
+    <id>https://smallstonez.github.io/project/2022/11/22/zai-xian-ji-zhu-wen-dang/zai-xian-ji-zhu-wen-dang-shou-ji/</id>
+    <published>2022-11-22T05:34:00.000Z</published>
+    <updated>2022-11-22T15:48:32.320Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;特性&quot;&gt;&lt;a href=&quot;#特性&quot; class=&quot;headerlink&quot; title=&quot;特性&quot;&gt;&lt;/a&gt;特性&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2&quot;&gt;Git中文教程&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="在线技术文档收集" scheme="https://smallstonez.github.io/project/categories/%E5%9C%A8%E7%BA%BF%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E6%94%B6%E9%9B%86/"/>
+    
+    
+    <category term="git" scheme="https://smallstonez.github.io/project/tags/git/"/>
+    
+    <category term="svn" scheme="https://smallstonez.github.io/project/tags/svn/"/>
+    
+    <category term="jQuery API中文文档" scheme="https://smallstonez.github.io/project/tags/jQuery-API%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://smallstonez.github.io/project/2022/11/21/hello-world/"/>
+    <id>https://smallstonez.github.io/project/2022/11/21/hello-world/</id>
+    <published>2022-11-21T11:36:28.331Z</published>
+    <updated>2022-11-21T11:34:07.221Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客主题之hexo-theme-matery的介绍</title>
+    <link href="https://smallstonez.github.io/project/2018/09/28/qian-duan/ce-shi-wen-dang/"/>
+    <id>https://smallstonez.github.io/project/2018/09/28/qian-duan/ce-shi-wen-dang/</id>
+    <published>2018-09-28T05:34:00.000Z</published>
+    <updated>2022-11-22T15:06:44.505Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;README.md&quot;&gt;English Document&lt;/a&gt; | &lt;a href=&quot;https://blinkfox.github.io/&quot;&gt;演示示例&lt;/a&gt; |</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://smallstonez.github.io/project/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Hexo" scheme="https://smallstonez.github.io/project/tags/Hexo/"/>
+    
+    <category term="hexo-theme-matery" scheme="https://smallstonez.github.io/project/tags/hexo-theme-matery/"/>
+    
+  </entry>
+  
+</feed>
