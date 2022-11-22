@@ -3,11 +3,11 @@
   <title>油炸豆糕</title>
   
   <subtitle>油炸豆糕--轨迹</subtitle>
-  <link href="https://smallstonez.github.io/project/atom.xml" rel="self"/>
+  <link href="https://smallstonez.github.io/atom.xml" rel="self"/>
   
-  <link href="https://smallstonez.github.io/project/"/>
+  <link href="https://smallstonez.github.io/"/>
   <updated>2022-11-22T15:48:32.320Z</updated>
-  <id>https://smallstonez.github.io/project/</id>
+  <id>https://smallstonez.github.io/</id>
   
   <author>
     <name>FriedBeanCake</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>技术文档收集</title>
-    <link href="https://smallstonez.github.io/project/2022/11/22/zai-xian-ji-zhu-wen-dang/zai-xian-ji-zhu-wen-dang-shou-ji/"/>
-    <id>https://smallstonez.github.io/project/2022/11/22/zai-xian-ji-zhu-wen-dang/zai-xian-ji-zhu-wen-dang-shou-ji/</id>
+    <link href="https://smallstonez.github.io/2022/11/22/zai-xian-ji-zhu-wen-dang/zai-xian-ji-zhu-wen-dang-shou-ji/"/>
+    <id>https://smallstonez.github.io/2022/11/22/zai-xian-ji-zhu-wen-dang/zai-xian-ji-zhu-wen-dang-shou-ji/</id>
     <published>2022-11-22T05:34:00.000Z</published>
     <updated>2022-11-22T15:48:32.320Z</updated>
     
@@ -35,21 +35,21 @@
     
     
     
-    <category term="在线技术文档收集" scheme="https://smallstonez.github.io/project/categories/%E5%9C%A8%E7%BA%BF%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E6%94%B6%E9%9B%86/"/>
+    <category term="在线技术文档收集" scheme="https://smallstonez.github.io/categories/%E5%9C%A8%E7%BA%BF%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3%E6%94%B6%E9%9B%86/"/>
     
     
-    <category term="git" scheme="https://smallstonez.github.io/project/tags/git/"/>
+    <category term="git" scheme="https://smallstonez.github.io/tags/git/"/>
     
-    <category term="svn" scheme="https://smallstonez.github.io/project/tags/svn/"/>
+    <category term="svn" scheme="https://smallstonez.github.io/tags/svn/"/>
     
-    <category term="jQuery API中文文档" scheme="https://smallstonez.github.io/project/tags/jQuery-API%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/"/>
+    <category term="jQuery API中文文档" scheme="https://smallstonez.github.io/tags/jQuery-API%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://smallstonez.github.io/project/2022/11/21/hello-world/"/>
-    <id>https://smallstonez.github.io/project/2022/11/21/hello-world/</id>
+    <link href="https://smallstonez.github.io/2022/11/21/hello-world/"/>
+    <id>https://smallstonez.github.io/2022/11/21/hello-world/</id>
     <published>2022-11-21T11:36:28.331Z</published>
     <updated>2022-11-21T11:34:07.221Z</updated>
     
@@ -69,8 +69,8 @@
   
   <entry>
     <title>Hexo博客主题之hexo-theme-matery的介绍</title>
-    <link href="https://smallstonez.github.io/project/2018/09/28/qian-duan/ce-shi-wen-dang/"/>
-    <id>https://smallstonez.github.io/project/2018/09/28/qian-duan/ce-shi-wen-dang/</id>
+    <link href="https://smallstonez.github.io/2018/09/28/qian-duan/ce-shi-wen-dang/"/>
+    <id>https://smallstonez.github.io/2018/09/28/qian-duan/ce-shi-wen-dang/</id>
     <published>2018-09-28T05:34:00.000Z</published>
     <updated>2022-11-22T15:06:44.505Z</updated>
     
@@ -85,12 +85,12 @@
     
     
     
-    <category term="前端" scheme="https://smallstonez.github.io/project/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://smallstonez.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="Hexo" scheme="https://smallstonez.github.io/project/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://smallstonez.github.io/tags/Hexo/"/>
     
-    <category term="hexo-theme-matery" scheme="https://smallstonez.github.io/project/tags/hexo-theme-matery/"/>
+    <category term="hexo-theme-matery" scheme="https://smallstonez.github.io/tags/hexo-theme-matery/"/>
     
   </entry>
   
