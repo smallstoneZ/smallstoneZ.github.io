@@ -207,6 +207,31 @@
     
     
     <entry>
+      <title>git</title>
+      <link href="/2022/11/22/ban-ben-gong-ju/git/"/>
+      <url>/2022/11/22/ban-ben-gong-ju/git/</url>
+      
+        <content type="html"><![CDATA[<p>git中存在两种类型的仓库，即本地仓库和远程仓库。</p><h2 id="Git代码托管服务"><a href="#Git代码托管服务" class="headerlink" title="Git代码托管服务"></a>Git代码托管服务</h2><table><thead><tr><th align="left">名称（网址）</th><th align="right">说明</th></tr></thead><tbody><tr><td align="left"><a href="https://github.com/">github</a></td><td align="right">一个面向开源及私有软件项目的托管平台，因为只支持Git 作为唯一的版本库格式进行托管，故名gitHub</td></tr><tr><td align="left"><a href="https://gitee.com/">码云</a></td><td align="right">国内的一个代码托管平台，由于服务器在国内，所以相比于GitHub，码云速度会更快</td></tr><tr><td align="left"><a href="https://about.gitlab.com/">GitLab</a></td><td align="right">一个用于仓库管理系统的开源项目，使用Git作为代码管理工具，并在此基础上搭建起来的web服务</td></tr><tr><td align="left"><a href="https://bitbucket.org/">BitBucket</a></td><td align="right">一家源代码托管网站，采用Mercurial和Git作为分布式版本控制系统，同时提供商业计划和免费账户</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> 版本工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/11/21/hello-world/"/>
       <url>/2022/11/21/hello-world/</url>
